@@ -23,7 +23,10 @@ def main():
     #os.mkdir(path)
 
     # get items to search
-    items = ["ghrazi_rapier", "sanguinesti_staff#Uncharged"]
+    #items = ["ghrazi_rapier", "sanguinesti_staff#Uncharged"]
+    f = open("items_of_interest.txt", "r")
+    items = [line.strip() for line in f.readlines()]
+    f.close()
 
     # download item info
     for item in items:
