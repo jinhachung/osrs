@@ -28,6 +28,7 @@ def main():
     items = [line.strip() for line in f.readlines()]
     f.close()
 
+
     # download item info
     for item in items:
         # get link / url
