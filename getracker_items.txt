@@ -1,0 +1,100 @@
+#melee weapons
+elder-maul
+zamorakian-hasta
+abyssal-bludgeon
+dragon-warhammer
+dragon-claws
+dragon-hunter-lance
+ghrazi-rapier
+blade-of-saeldor-inactive
+inquisitor-s-mace
+osmumten-s-fang
+scythe-of-vitur-uncharged
+
+# melee armours
+bandos-chestplate
+bandos-tassets
+justiciar-faceguard
+justiciar-chestguard
+justiciar-legguards
+inquisitor-s-hauberk
+inquisitor-s-great-helm
+inquisitor-s-plateskirt
+torva-full-helm
+torva-platebody
+torva-platelegs
+primordial-boots
+dragon-full-helm
+dragon-kiteshield
+
+# mage weapons
+uncharged-trident-e
+uncharged-toxic-trident-e
+nightmare-staff
+eldritch-orb
+harmonised-orb
+volatile-orb
+kodai-wand
+sanguinesti-staff-uncharged
+tumeken-s-shadow-uncharged
+
+# mage armours
+ancestral-hat
+ancestral-robe-top
+ancestral-robe-bottom
+ancient-wyvern-shield
+elidinis-ward
+eternal-boots
+
+# ranged armours
+masori-mask-f
+masori-body-f
+masori-chaps-f
+armadyl-helmet
+armadyl-chestplate
+armadyl-plateskirt
+zaryte-vambraces
+crystal-armour-seed
+twisted-buckler
+dragonfire-ward
+pegasian-boots
+
+# ranged weapons
+armadyl-crossbow
+zaryte-crossbow
+dragon-hunter-crossbow
+bow-of-faerdhinen-inactive
+twisted-bow
+
+# godswords
+armadyl-godsword
+bandos-godsword
+saradomin-godsword
+zamorak-godsword
+ancient-godsword
+
+# spirit shields
+arcane-spirit-shield
+elysian-spirit-shield
+spectral-spirit-shield
+
+# other crystal items
+crystal-armour-seed
+crystal-weapon-seed
+enhanced-crystal-weapon-seed
+crystal-tool-seed
+enhanced-crystal-teleport-seed
+
+# wilderness weapons
+viggora-s-chainmace-u
+craw-s-bow-u
+thammaron-s-sceptre-u
+
+# other goodies
+ring-of-the-gods
+lightbearer
+ring-of-endurance-uncharged
+amulet-of-eternal-glory
+swift-blade
+imbued-heart
+eternal-gem
